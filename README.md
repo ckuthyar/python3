@@ -121,6 +121,7 @@ In Round 3, every third door (3, 6, 9,....) if Door is Open,, he closes it. If D
 In Round 4, every fourth door (4, 8, 12..), if Door is open,, he closes it. If Door is Closed, he opens it.    
 He does this for 100 Rounds. At the end, who are the lucky prisoners ?    
 
+![Andaman Prisoner](https://github.com/ckuthyar/python3/blob/main/Tech_FwP_AndamanPrisoner_1.png)    
 4b) Prepare 2 letters. Letter1 to PM giving list of lucky prisoners and release date as today. Letter2 to Jailer giving list of unlucky prisoners who will be released after 4 weeks.    
 
 ## Assignment 5 - Gold Medal Problem    
