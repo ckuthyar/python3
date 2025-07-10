@@ -74,7 +74,7 @@ print(result)
 
 ## Assignment 3 - School Clock Angle
 School Clock is showing 9 am.  Compute the angle between the Hour hand and the Minute hand.  It should show Time: Angle in Degrees from 9:00 am to 8:55 pm with a spacing of 5 minutes.  
-
+![Clock at 9:00 am](https://github.com/ckuthyar/python3/blob/main/Clock_900.png)
 Clues
 1) What is the exact angle between Hour Hand and Minute Hand at 9 am ?
 2) What is the exact angle between Hour Hand and Minute Hand at 9:05 pm ?
