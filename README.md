@@ -113,7 +113,7 @@ Output should be
 20:55 -   
 
 
-Assignment 4 - Andaman Prisoner Problem    
+## Assignment 4 - Andaman Prisoner Problem    
 4a) There are 100 prison cells in a row. All cells are locked. Jailer is given permission by the Prime Minister of India to release any number of prisoners.     
 In Round 1, Jailer opens all the doors.   
 In Round 2, he closes every alternate door (2, 4, 6...).   
@@ -123,4 +123,4 @@ He does this for 100 Rounds. At the end, who are the lucky prisoners ?
 
 4b) Prepare 2 letters. Letter1 to PM giving list of lucky prisoners and release date as today. Letter2 to Jailer giving list of unlucky prisoners who will be released after 4 weeks.    
 
-Assignment 5 - Gold Medal Problem    
+## Assignment 5 - Gold Medal Problem    
