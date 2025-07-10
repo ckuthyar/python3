@@ -72,7 +72,7 @@ In the main program, create a variable to catch the returned value and process i
 result = calc1(8,4)
 print(result)
 
-Assignment 3 - School Clock Angle
+## Assignment 3 - School Clock Angle
 School Clock is showing 9 am.  Compute the angle between the Hour hand and the Minute hand.  It should show Time: Angle in Degrees from 9:00 am to 8:55 pm with a spacing of 5 minutes.  
 
 Clues
