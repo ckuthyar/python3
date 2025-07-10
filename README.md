@@ -80,10 +80,10 @@ Clues
 2) What is the exact angle between Hour Hand and Minute Hand at 9:05 pm ?
 3) What is the exact angle between Hour Hand and Minute Hand at 9:10 pm ?
 4) What is the exact angle between Hour Hand and Minute Hand at 9:15 pm ? 
-5) What is the speed of the hour hand ? ie 
-In one hour, how many degrees doe it move ? 
-In one minute, how many degrees does it move ?
-In 5 minutes, how many degrees does it move ?
+5) What is the speed of the hour hand ? ie    
+In one hour, how many degrees doe it move ?      
+In one minute, how many degrees does it move ?     
+In 5 minutes, how many degrees does it move ?    
 
 Output should be
 
