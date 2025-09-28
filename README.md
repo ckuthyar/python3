@@ -192,7 +192,13 @@ The above is a Right Diamond
 &nbsp;&nbsp;&nbsp;&nbsp;Funw   
 &nbsp;&nbsp;&nbsp;Funwi  
 &nbsp;&nbsp;Funwit      
-&nbsp;Funwith      
+&nbsp;Funwith   
+&nbsp;&nbsp;Funwit   
+&nbsp;&nbsp;&nbsp;Funwi  
+&nbsp;&nbsp;&nbsp;&nbsp;Funw  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fu  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F   
 
 
          
