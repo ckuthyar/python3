@@ -168,5 +168,52 @@ The time in these cities is offset from UTC by these hours
 - Tokyo, +9
 - Sydney, +10
 - Wellington, +12
+- 
+## Assignment 6 - Build a Right Diamond, Left Diamond and a Full Diamond by arranging the letters of a given word as below
+
+F   
+Fu   
+Fun   
+Funw   
+Funwi   
+Funwit   
+Funwith   
+Funwit   
+Funwi   
+Funw   
+Fun   
+Fun   
+F    
+The above is a Right Diamond    
+
+         F   
+       Fu   
+      Fun   
+     Funw   
+    Funwi    
+   Funwit    
+  Funwith   
+   Funwit   
+    Funwi   
+     Funw   
+      Fun   
+       Fu
+        F
+The above is a Left Diamond   
+
+      F   
+     Fun   
+    Funwi   
+   Funwith     
+    Funwi   
+     Fun   
+     F     
+The above is a Full Diamond    
+
+
+
+
+        
+
 
 
