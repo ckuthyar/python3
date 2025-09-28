@@ -191,7 +191,7 @@ The above is a Right Diamond
       Fun   
      Funw   
     Funwi       
-   Funwit    
+   Funwit       
   Funwith   
    Funwit   
     Funwi   
