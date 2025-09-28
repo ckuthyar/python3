@@ -190,7 +190,7 @@ The above is a Right Diamond
        Fu   
       Fun   
      Funw   
-    Funwi    
+    Funwi       
    Funwit    
   Funwith   
    Funwit   
@@ -204,7 +204,7 @@ The above is a Left Diamond
       F   
      Fun   
     Funwi   
-   Funwith     
+   Funwith      
     Funwi   
      Fun      
      F     
