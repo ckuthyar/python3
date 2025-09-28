@@ -184,10 +184,10 @@ Funw
 Fun   
 Fun   
 F    
-The above is a Right Diamond
-            F
-           Fu   
-          Fun   
+The above is a Right Diamond   
+            F   
+           Fu    
+          Fun    
          Funw   
         Funwi   
        Funwit   
