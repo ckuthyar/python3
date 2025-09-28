@@ -184,10 +184,8 @@ Funw
 Fun   
 Fun   
 F    
-The above is a Right Diamond    
-
-
-            F   
+The above is a Right Diamond
+            F
            Fu   
           Fun   
          Funw   
