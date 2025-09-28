@@ -186,34 +186,20 @@ Fun
 F    
 The above is a Right Diamond    
 
-         F   
-       Fu   
-      Fun   
-     Funw   
-    Funwi       
-   Funwit       
-  Funwith   
-   Funwit   
-    Funwi   
-     Funw   
-      Fun   
-       Fu   
-        F   
-The above is a Left Diamond   
 
-      F   
-     Fun   
-    Funwi   
-   Funwith      
-    Funwi   
-     Fun      
-     F     
-The above is a Full Diamond    
-
-
-
-
-        
+            F
+           Fu
+          Fun
+         Funw
+        Funwi
+       Funwit
+      Funwith
+       Funwit
+        Funwi
+         Funw
+          Fun
+           Fu
+            F
 
 
 
