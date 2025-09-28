@@ -206,7 +206,7 @@ The above is a Left Diamond
     Funwi   
    Funwith     
     Funwi   
-     Fun   
+     Fun      
      F     
 The above is a Full Diamond    
 
