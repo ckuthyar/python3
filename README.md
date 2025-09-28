@@ -187,19 +187,19 @@ F
 The above is a Right Diamond    
 
 
-            F
-           Fu
-          Fun
-         Funw
-        Funwi
-       Funwit
-      Funwith
-       Funwit
-        Funwi
-         Funw
-          Fun
-           Fu
-            F
+            F   
+           Fu   
+          Fun   
+         Funw   
+        Funwi   
+       Funwit   
+      Funwith   
+       Funwit   
+        Funwi   
+         Funw   
+          Fun   
+           Fu   
+            F   
 
 
 
