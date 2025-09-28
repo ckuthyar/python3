@@ -197,8 +197,8 @@ The above is a Right Diamond
     Funwi   
      Funw   
       Fun   
-       Fu
-        F
+       Fu   
+        F   
 The above is a Left Diamond   
 
       F   
