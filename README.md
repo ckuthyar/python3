@@ -201,6 +201,14 @@ The above is a Right Diamond
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F   
 
 
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;F    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Fu    
+&emsp;&emsp;&emsp;&emsp;&emsp;Fun    
+&emsp;&emsp;&emsp;&emsp;Funw    
+&emsp;&emsp;&emsp;Funwi    
+&emsp;&emsp;Funwit    
+&emsp;Funwith       
          
 
 
