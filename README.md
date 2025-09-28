@@ -185,9 +185,14 @@ Fun
 Fun   
 F    
 The above is a Right Diamond   
-&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,F   
-&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,Fu    
-&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,Fun   
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fu
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun
+&nbsp;&nbsp;&nbsp;&nbsp;Funw
+&nbsp;&nbsp;&nbsp;Funw
+&nbsp;&nbsp;Funw
+&nbsp;Funwi
 
 
          
