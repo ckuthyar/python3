@@ -185,19 +185,12 @@ Fun
 Fun   
 F    
 The above is a Right Diamond   
-            F   
-           Fu    
-          Fun    
-         Funw   
-        Funwi   
-       Funwit   
-      Funwith   
-       Funwit   
-        Funwi   
-         Funw   
-          Fun   
-           Fu   
-            F   
+&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,F   
+&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,Fu    
+&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,&nbsp,Fun   
+
+
+         
 
 
 
