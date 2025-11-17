@@ -199,7 +199,7 @@ The above is a Right Diamond
 &nbsp;&emsp;Funwith       
          
 ## Assignment 7 - Build a Quiz Application based on the input text file GK1.txt
-File GK1.txt contains list of countries along with their respective capitals.   
+7a) File GK1.txt contains list of countries along with their respective capitals.   
 Create a Quiz module to display the first 10 questions in a random order    
 The question can be printed as "What is the capital of " + countries[0]    
 The responses can be stored in a separate list.       
@@ -219,6 +219,8 @@ China,Beijing
 SriLanka,Colombo   
 Philippines,Manila  
 
-Ref: https://github.com/ckuthyar/python3/blob/main/58.py      
-https://github.com/ckuthyar/python3/blob/main/59.py    
+Ref: https://github.com/ckuthyar/python3/blob/main/58.py   
+
+7b) File GK2.text contains a list of 9 Quiz questions along with answers separated by "$$" on either side. Prepare a Quiz Application similar to the above   
+Ref: https://github.com/ckuthyar/python3/blob/main/59.py      
 
