@@ -198,6 +198,27 @@ The above is a Right Diamond
 &nbsp;&emsp;&emsp;Funwit    
 &nbsp;&emsp;Funwith       
          
+## Assignment 7 - Build a Quiz Application based on the input text file GK1.txt
+File GK1.txt contains list of countries along with their respective capitals.
+Create a Quiz module to display the first 10 questions in a random order
+The question can be printed as "What is the capital of " + countries[0]
+The responses can be stored in a separate list.    
+Correct response gets 10 marks, Wrong response gets 0 marks
+At the end of the quiz, the marks are tabulated and total marks shown
+For all the wrong answers, the actual correct answer is displayed along with the corresponding question
+
+
+India,New Delhi
+USA,WashingtonDC
+UK,London
+France,Paris
+Italy,Rome
+Russia,Moscow
+Japan,Tokyo
+China,Beijing
+SriLanka,Colombo
+Philippines,Manila
+
 
 
 
